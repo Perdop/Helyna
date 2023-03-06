@@ -8,8 +8,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
     <header>
-            <div class="headertext">
-                <h1>Personalidades</h1>
-                <p>da tecnologia</p>
-            </div>
-        </header>
+        <div class="headertext">
+            <h1>Personalidades</h1>
+            <h2>da tecnologia</h2>
+        </div>
+        <div class="headerLogo">
+            <a href="d"></a>
+        </div>
+    </header>
