@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(16, 16, 75);
+}
+
+.persontop{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    align-items:end;
+    justify-content: center;
+}
+.persontop h1{
+    color: rgb(228, 101, 75);
+    font-size: 4.5em;
+    margin-bottom:2.5vh ;
+}
+.personarticle{
+    display: flex;
+    flex-direction: row;
+    height: 95vh;
+}
+.personarticle .text{
+    width: 63vw;
+    height: 80vh;
+    color: rgb(220, 162, 156);
+    margin-left: 5vw;
+    margin-top: 3vh;
+    text-indent: 2em;
+}
+.personarticle .text p{
+    margin-top: 1.5vh;
+    font-style: clamp(1vh,2em,5vw);
+}
+
+.personarticle .image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    width: 37%;
+}
+
+.personarticle .image button{
+    border-radius: 1em;
+    width: 28vw;
+    height: 73vh;
+    background-color: black;
+}
