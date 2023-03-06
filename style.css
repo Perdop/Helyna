@@ -45,3 +45,38 @@ header p{
 .person4{
     background-color: chartreuse;
 }
+.title-mark{
+    padding: 2% 5%;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.title-mark h3{
+    font-size: 15px;
+    margin-top: 1%;
+}
+.title-mark hr{
+    margin-top: 5%;
+    width: 80%;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+}
+.text-mark{
+    width: 90%;
+    margin: 1% 5%;
+}
+.text-mark img{
+    margin-top: 2%;
+    width: 70%;
+    height: 400px;
+}
+.text-mark p{
+    font-weight: bold;
+    margin-top: 2%;
+    text-indent: 30px;
+}
+.image-mark img{
+    height: 400px;
+}
