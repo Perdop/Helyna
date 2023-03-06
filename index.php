@@ -27,6 +27,4 @@
             </div>
         </a>
     </main>
-    <footer></footer>
 </body>
-</html>
