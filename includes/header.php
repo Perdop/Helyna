@@ -13,6 +13,6 @@
             <h2>da tecnologia</h2>
         </div>
         <div class="headerLogo">
-            <a href="d"></a>
+            <a href="https://www.senac.br/"></a>
         </div>
     </header>
