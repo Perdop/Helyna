@@ -45,3 +45,31 @@ header p{
 .person4{
     background-color: chartreuse;
 }
+footer{
+    height: 12vh;
+    width: 100vw;
+    background-color: gray;
+    margin-top: 8vh;
+}
+.p_footer{
+    margin-right: 0.5vw;
+    float: left;
+}
+.p_footer a{
+    text-decoration: none;
+    color: black;
+}
+.imagem_footer{
+    margin-left: 5vw;
+    margin-top: 1vh;
+}
+.div1_footer{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+.div2_footer{
+    margin-top: 6vh;
+    margin-left: 3vw;
+}
