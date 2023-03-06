@@ -2,7 +2,7 @@
     include_once './includes/header.php';
 ?>
     <main>
-        <a href="person1.php" class="person1">
+        <a href="markzuckerberg.php" class="person1">
             <div class="personTop"></div>
             <div class="personName">
                 <h1>Mark Zuckerberg</h1>
