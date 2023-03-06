@@ -1,1 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+header{
+    background-color: rgb(74, 74, 176);
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    height: 80vh;
+    width: 100%;
+}
+
+header h1 {
+    margin-left: 5vw;
+    color: white;
+    font-size: 10vh;
+}
+
+.person1, .person2, .person4, .person4{
+    height: 100%;
+    width: 25vw;
+}
+.person1{
+    background-color: purple;
+}
+.person2{
+    background-color: blue;
+}
+.person3{
+    background-color: brown;
+}
+.person4{
+    background-color: chartreuse;
+}
