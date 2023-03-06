@@ -18,10 +18,15 @@ main{
     width: 100%;
 }
 
+header 
+
 header h1 {
     margin-left: 5vw;
     color: white;
-    font-size: 10vh;
+    font-size: 12vh;
+}
+header p{
+
 }
 
 .person1, .person2, .person4, .person4{

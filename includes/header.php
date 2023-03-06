@@ -7,4 +7,9 @@
     <title>Personalidades</title>
     <link rel="stylesheet" href="style.css">
 </head>
-</html>
+    <header>
+            <div class="headertext">
+                <h1>Personalidades</h1>
+                <p>da tecnologia</p>
+            </div>
+        </header>
