@@ -53,8 +53,11 @@ body{
     background-color: black;
 }
 
-.personarticle .image img{
+.personarticle .image1 img{
     border-radius: 1em;
     width: 28vw;
     height: 73vh;
+    background-image: url(./img/mark-zuckerberg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
