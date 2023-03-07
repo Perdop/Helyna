@@ -46,6 +46,16 @@ body{
     width: 37%;
 }
 
+.personarticle .image1 button{
+    border-radius: 1em;
+    width: 28vw;
+    height: 73vh;
+    background-image: url('./img/benners.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 10em;
+}      
+
 .personarticle .image img{
     border-radius: 1em;
     width: 28vw;
