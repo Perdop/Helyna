@@ -66,7 +66,6 @@ header a{
     text-decoration: none;
 }
 .person1:hover, .person2:hover, .person3:hover, .person4:hover{
-    background-size: 80%;
     opacity: 60%;
     border-width: 10px;
 }
@@ -80,7 +79,10 @@ header a{
     background-color: brown;
 }
 .person4{
-    background-color: chartreuse;
+    background-image: url('./img/benners.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -4em;
 }
 footer{
     height: 12vh;

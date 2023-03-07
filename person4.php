@@ -1,16 +1,17 @@
 <link rel="stylesheet" href="style2.css">
     <main>
         <div class="persontop">
-            <h1>Mark Zuckerberg</h1>
+            <h1>Tim Benners-Lee</h1>
         </div>
         <div class="personarticle">
             <div class="text">
-                <p>Mark Zuckerberg nasceu em 1982 em Nova York, Estados Unidos, é o cofundador e CEO do Facebook, uma das maiores redes sociais do planeta, em 2012, o Facebook adquiriu o Instagram por 1 bilhão de dólares e, em 2014, comprou o Whatsapp por 19 bilhões de dólares, Mark Zuckerberg cursou ciências informáticas em Harvard, mas abandonou a universidade em 2004, no seu segundo ano, para se dedicar integralmente ao Facebook.</p>
-                <p>Embora não ter concluído seu curso pela instituição, Zuckerberg recebeu um diploma honorário 12 anos depois de deixar Harvard, quando foi convidado para discursar na cerimônia de formatura da turma de 2016, durante a universidade, se juntou a um grupo de amigos para desenvolver sites inovadoras, nessa época, baseado em páginas de informações pessoais, Zuckerberg seus colegas criaram o Facemash, um site que publicava fotos de mulheres estudantes e permitia que outros votassem no que consideravam a mais bonita, o que gerou bastante polemica na época, Teve sua ascensão em 2008, quando Zuckerberg ingressou na lista da Forbes, tinha 24 anos e se tornou o americano mais jovem a compor o panteão dos mais ricos da lista, transformou o Facebook em uma das empresas mais bem sucedidas do mundo, recusando todas as ofertas bilionárias que recebeu durante sua trajetória na empresa.</p>
-                <p>Desde criança, Zuckerberg demonstrava interesse por informática. Entre 1998 e 200 estudou na Arley High School, onde se destacou em artes e culturas clássicas, Durante os dois anos seguintes aprendeu Programação Básica com o desenvolvedor de software David Newman e ingressou no Mercy College, onde se graduou em programação, Ao deixa a escola, ingressou na Philips Exeter Academy e de lá partiu para cursos seu ensino superior em Harvard, Em 2001, aos 17 anos, criou um projeto escolar capaz de rastrear preferências de usuários online, chamado "Synapse Media Player"</p>
-                <p>No dia 19 de maio de 2012, Mark Zuckerberg casou-se com sua namorada, a médica pediatra Priscilla Chan, que conheceu em sua universidade, na época ela cursava Biologia, O casal tem 2 filhos, a primeira filha chamada Maxima, nasceu no dia 30 de novembro de 2015 em Los Angeles e a segunda filha nasceu no dia 28 de agosto de 2017, chamado August, Em 2015, o casal doou 45 bilhões de dólares para obras de caridade geridas pela sua própria fundação filantrópica, a "Chan Zuckerberg"</p>
+                <p>Tim Berners-Lee nasceu em Londres, Inglaterra, filho de Conway Berners-Lee e Mary Lee Woods. Estudou na escola primária Sheen Mount e depois na Emanuel School em Londres, de 1969 a 1973. Depois estudou no The Queen's College, em Oxford, de 1973 a 1976, onde diplomou-se em Física. </p>
+                <p>Enquanto atuava como um contratante independente no CERN, Berners-Lee propôs um projeto baseado no conceito de hipertexto para facilitar a partilha e atualização de informações entre os pesquisadores. Enquanto isso, ele construiu um protótipo de sistema denominado ENQUIRE. Em 1989, o CERN foi o maior nó da internet na Europa, e Berners-Lee viu a oportunidade de unir hipertexto com internet. Ele escreveu a sua proposta inicial em março de 1989, e em 1990, com a ajuda de Robert Cailliau, produziu uma revisão que foi aceita pelo seu empresário, Mike Sendall. Ele usou ideias semelhantes àquelas subjacentes ao sistema ENQUIRE para criar a World Wide Web, para o que ele projetou e construiu o primeiro navegador da Web, que também funcionava como um editor. </p>
+                <p>O primeiro site foi construído no CERN e foi posto on-line em 6 de agosto de 1991. Info.cern.ch foi o endereço do primeira web site e servidor web da história, rodando em um computador NeXT no CERN. O primeiro endereço de página web foi http://info.cern.ch/hypertext/WWW/TheProject.html.</p>
+                <p>Em dezembro de 2004, aceitou uma cadeira de Ciência da Computação da Faculdade de Eletrônica e Ciências da Computação da Universidade de Southampton, na Inglaterra, para trabalhar em seu novo projeto, o Web semântica.</p>
+                <p>Em junho de 2009, o primeiro-ministro Gordon Brown anunciou que Berners-Lee iria trabalhar com o governo britânico para ajudar a tornar os dados mais abertos e acessíveis na Web, com base no trabalho da Força-Tarefa de Poder da Informação.</p>
             </div>
-            <div class="image">
+            <div class="image1">
                 <button href=""></button>
             </div>
         </div>
