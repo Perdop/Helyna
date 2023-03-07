@@ -18,7 +18,7 @@ body{
 .persontop h1{
     color: rgb(228, 101, 75);
     font-size: 4.5em;
-    margin-bottom:2.5vh ;
+    margin-bottom:2.5vh;
 }
 .personarticle{
     display: flex;
@@ -46,9 +46,11 @@ body{
     width: 37%;
 }
 
-.personarticle .image button{
+.personarticle .image1 button{
     border-radius: 1em;
     width: 28vw;
     height: 73vh;
-    background-color: black;
-}
+    background-image: url('./img/benners.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
