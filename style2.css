@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(16, 16, 75);
+    background-color: rgb(9, 9, 87);
 }
 
 .persontop{
@@ -16,19 +16,19 @@ body{
     justify-content: center;
 }
 .persontop h1{
-    color: rgb(228, 101, 75);
+    color: rgb(231, 139, 132);
     font-size: 4.5em;
     margin-bottom:2.5vh ;
 }
 .personarticle{
     display: flex;
     flex-direction: row;
-    height: 95vh;
+    height: auto;
 }
 .personarticle .text{
     width: 63vw;
     height: 80vh;
-    color: rgb(220, 162, 156);
+    color: rgb(236, 180, 174);
     margin-left: 5vw;
     margin-top: 3vh;
     text-indent: 2em;
@@ -51,4 +51,10 @@ body{
     width: 28vw;
     height: 73vh;
     background-color: black;
+}
+
+.personarticle .image img{
+    border-radius: 1em;
+    width: 28vw;
+    height: 73vh;
 }
