@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(86, 86, 86);
+    background-color: rgb(92, 140, 207);
 }
 
 header{
@@ -90,7 +90,6 @@ header a{
     background-image: url('./img/benners.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-x: -4em;
 }
 footer{
     height: 12vh;
