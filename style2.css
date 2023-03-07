@@ -53,6 +53,7 @@ body{
     background-image: url('./img/benners.png');
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: 10em;
 }      
 
 .personarticle .image img{
