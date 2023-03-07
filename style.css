@@ -70,13 +70,21 @@ header a{
     border-width: 10px;
 }
 .person1{
-    background-color: purple;
+    background-image: url('./img/mark-zuckerberg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .person2{
-    background-color: blue;
+    background-image: url('./img/sean.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 .person3{
-    background-color: brown;
+    background-image: url('./img/radia.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 .person4{
     background-image: url('./img/benners.png');
