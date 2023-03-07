@@ -11,8 +11,8 @@
                 <p>Em dezembro de 2004, aceitou uma cadeira de Ciência da Computação da Faculdade de Eletrônica e Ciências da Computação da Universidade de Southampton, na Inglaterra, para trabalhar em seu novo projeto, o Web semântica.</p>
                 <p>Em junho de 2009, o primeiro-ministro Gordon Brown anunciou que Berners-Lee iria trabalhar com o governo britânico para ajudar a tornar os dados mais abertos e acessíveis na Web, com base no trabalho da Força-Tarefa de Poder da Informação.</p>
             </div>
-            <div class="image1">
-                <button href=""></button>
+            <div class="image">
+                <img src="./img/benners.png" alt="">
             </div>
         </div>
     </main>
